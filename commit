@@ -1,0 +1,37 @@
+*   [33mcommit cb5b3896bab6df1b91d05340618b4254354b46da[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[31m|[m[32m\[m  Merge: 4da2f9c c448ff0
+[31m|[m [32m|[m Author: GemmaRuggiu <gemmaruggiu@gmail.com>
+[31m|[m [32m|[m Date:   Wed Oct 15 14:58:44 2025 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     WIP on esercizio1: 4da2f9c secondo merge
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit c448ff00fdc1e0147ae3a93248f728a930648b79[m
+[31m|[m[31m/[m  Author: GemmaRuggiu <gemmaruggiu@gmail.com>
+[31m|[m   Date:   Wed Oct 15 14:58:44 2025 +0200
+[31m|[m   
+[31m|[m       index on esercizio1: 4da2f9c secondo merge
+[31m|[m   
+*   [33mcommit 4da2f9c61e2325e54c6a322b25c3266a64e309ab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+[33m|[m[34m\[m  Merge: 433311a db11763
+[33m|[m [34m|[m Author: GemmaRuggiu <gemmaruggiu@gmail.com>
+[33m|[m [34m|[m Date:   Tue Oct 14 17:50:36 2025 +0200
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     secondo merge
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit db11763848089de838d3d82dbb6f00e032367b49[m
+[33m|[m [34m|[m Author: GemmaRuggiu <gemmaruggiu@gmail.com>
+[33m|[m [34m|[m Date:   Tue Oct 14 17:05:38 2025 +0200
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     primo commit nuovo
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit 433311a744a0423a33fdb5f96105c789031a036c[m
+[34m|[m[34m/[m  Author: GemmaRuggiu <gemmaruggiu@gmail.com>
+[34m|[m   Date:   Tue Oct 14 15:35:52 2025 +0200
+[34m|[m   
+[34m|[m       ho aggiunto un file java di prova
+[34m|[m 
+* [33mcommit 92bc32ef21b990639193267f11cd6e53d53c8136[m
+  Author: GemmaRuggiu <gemmaruggiu@gmail.com>
+  Date:   Tue Oct 14 12:52:46 2025 +0200
+  
+      primo commit, prova 1 di commit, un file inserito
